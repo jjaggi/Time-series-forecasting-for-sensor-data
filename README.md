@@ -17,6 +17,8 @@ being interpretable,applicable without modification to a wide array of target do
 
 known problems: Due to the relatively small size of dataset overfitting may be a problem.
 
+Darts library :darts is a Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA to deep neural networks. The models can all be used in the same way, using fit() and predict() functions, similar to scikit-learn. 
+
 Initial testing graph:
 <img>https://github.com/jjaggi/Time-series-forecasting-for-sensor-data/blob/main/intitial_testing.png</img>
 
