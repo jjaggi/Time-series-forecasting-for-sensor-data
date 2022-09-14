@@ -17,4 +17,8 @@ being interpretable,applicable without modification to a wide array of target do
 
 known problems: Due to the relatively small size of dataset overfitting may be a problem.
 
+Initial testing graph:
 <img>https://github.com/jjaggi/Time-series-forecasting-for-sensor-data/blob/main/intitial_testing.png</img>
+
+Darts data structure file:
+<img> https://github.com/jjaggi/Time-series-forecasting-for-sensor-data/blob/main/darts%20structure.png </img?
