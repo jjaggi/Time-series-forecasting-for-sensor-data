@@ -16,3 +16,5 @@ NBEATModel- propose a deep neural architecture based on backward and forward res
 being interpretable,applicable without modification to a wide array of target domains, and fast to train.
 
 known problems: Due to the relatively small size of dataset overfitting may be a problem.
+
+<img>https://github.com/jjaggi/Time-series-forecasting-for-sensor-data/blob/main/intitial_testing.png</img>
